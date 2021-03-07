@@ -5,7 +5,7 @@
 1. 明文M(Plaintext)：未加密前的原始訊息
 2. 密文C(Ciphertext)：明文加密後的訊息
 
-3. ![k代表金鑰](images\1.png)
+3. ![k代表金鑰](.\images\1.png)
 
 一個完整的密系統須包含：秘密性Secrecy、鑑定性Authenticity、完整性Intergrity、不可否認性Non-repudiation
 
